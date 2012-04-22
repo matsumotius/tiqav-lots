@@ -1,0 +1,30 @@
+body {
+  color            : #FFF;
+  background-color : #000;
+}
+
+header .title {
+  padding    : 12px;
+  text-align : center;
+}
+
+footer .contact {
+  padding    : 12px;
+  text-align : center;
+}
+
+#content {
+  text-align : center;
+}
+
+button .post {
+  width : 240px;
+}
+
+.clear {
+  clear : both;
+}
+
+#socialbuttons {
+  text-align : right;
+} 

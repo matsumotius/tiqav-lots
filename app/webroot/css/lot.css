@@ -1,0 +1,19 @@
+#lot {
+  width      : 80%;
+  margin     : 0px auto;
+  text-align : center;
+}
+#tiqav-list {
+  padding    : 0px;
+  margin     : 0px;
+  width      : 100%;
+  list-style : none;
+}
+#tiqav-list li {
+  text-align : center;
+  width : 50%;
+  float : left;
+}
+.tiqav img {
+  width : 90%;
+}

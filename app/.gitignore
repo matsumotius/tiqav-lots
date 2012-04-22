@@ -1,0 +1,4 @@
+tmp/*
+*.swp
+Config/database.php
+Config/core.php
